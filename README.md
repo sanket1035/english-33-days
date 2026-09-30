@@ -27,7 +27,7 @@ One commit per day.
 
 | Day | Date | Topic | Status |
 |-----|------|-------|--------|
-| [01](logs/day-01.md) | Sep 29 | Introductions | ⬜ |
+| [01](logs/day-01.md) | Sep 29 | Introductions | Done |
 | [02](logs/day-02.md) | Sep 30 | Family and friends | ⬜ |
 | [03](logs/day-03.md) | Oct 1 | Home and area | ⬜ |
 | [04](logs/day-04.md) | Oct 2 | Daily routine | ⬜ |
