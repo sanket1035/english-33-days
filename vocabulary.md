@@ -22,3 +22,9 @@
 | Oct 1 | convenient | easy and useful for you | My flat is convenient because it is close to college. |
 | Oct 1 | amenities | useful facilities near you | My flat has good amenities. |
 | Oct 1 | locality | the area where you live | My locality in Nashik is quiet and safe. |
+| Oct 2 | schedule | plan of time and tasks (samay-sarini) | My schedule is hectic, but I feel productive in the morning. |
+| Oct 2 | commute | daily travel to college or work (roz aana-jaana) | My commute is short. It takes two minutes to walk. |
+| Oct 2 | hectic | very busy, full of activity (bhaag-daud wala) | My schedule is hectic on weekdays. |
+| Oct 2 | productive | gets a lot done (upyogi) | I feel productive in the morning. |
+| Oct 2 | punctual | reaches on time (samay ka paabandh) | I try to be punctual for my first class. |
+| Oct 2 | wind down | relax at end of day (din ke ant me aaram karna) | I wind down by going out with friends for a tea break. |
