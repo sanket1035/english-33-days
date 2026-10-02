@@ -17,3 +17,8 @@
 | Sep 30 | originally | from the beginning, by origin (mool roop se) | I am originally from Jalgaon. |
 | Sep 30 | independent | able to manage on your own (aatmanirbhar) | I became independent at an early age. |
 | Sep 30 | long-term | lasting for a long time (lambe samay ka) | I do not have many long-term friends. |
+| Oct 1 | accommodation | place where you stay | My accommodation is near my college. |
+| Oct 1 | spacious | has a lot of space | My flat is spacious. |
+| Oct 1 | convenient | easy and useful for you | My flat is convenient because it is close to college. |
+| Oct 1 | amenities | useful facilities near you | My flat has good amenities. |
+| Oct 1 | locality | the area where you live | My locality in Nashik is quiet and safe. |
