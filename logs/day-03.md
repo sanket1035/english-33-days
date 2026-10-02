@@ -1,7 +1,7 @@
 # Day 03: Home and area
 
 - Studied today: Home and area vocabulary. Grammar: there is / there are.
-- Practised today: Spoke about my village house in Saukara and my rented flat in Nashik. Used there is / there are. Practised the IELTS answer about house or flat.
+- Practised today: Spoke about my village house in Savkheda and my rented flat in Nashik. Used there is / there are. Practised the IELTS answer about house or flat.
 - New words (5): accommodation, spacious, convenient, amenities, locality
 - Mistakes:
   - "too near" -> "very close"
