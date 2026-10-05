@@ -28,3 +28,9 @@
 | Oct 2 | productive | gets a lot done (upyogi) | I feel productive in the morning. |
 | Oct 2 | punctual | reaches on time (samay ka paabandh) | I try to be punctual for my first class. |
 | Oct 2 | wind down | relax at end of day (din ke ant me aaram karna) | I wind down by going out with friends for a tea break. |
+| Oct 4 | appetizer | small dish before the main meal (shuruaati khana) | I'd like chicken tikka as an appetizer. |
+| Oct 4 | recommend | suggest something good (sujhaav dena) | I always ask the waiter, "What do you recommend?" |
+| Oct 4 | allergic | body reacts badly to something (allergy hona) | I am allergic only to brinjal. |
+| Oct 4 | reservation | table booked in advance (pehle se booking) | For a big group, we make a reservation in advance. |
+| Oct 4 | leftovers | food left after a meal (bacha hua khana) | Can I take the leftovers home? |
+| Oct 4 | home-cooked | food made at home (ghar ka bana) | I eat at my sister's place. It is home-cooked food. |
